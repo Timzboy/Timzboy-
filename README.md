@@ -19,4 +19,4 @@
 ![Timzboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timzboy&show_icons=true&hide_title=true&theme=radical)
 
 ### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](YourLinkedInProfileLink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](jephthaetimileyin)
